@@ -56,7 +56,7 @@ export const TodoWrapper = () => {
                         Project. It is stylish and easy to use.</p>
                 </p>
                 <a
-                    href='https://github.com/David-Maduabuchi'
+                    href="https://david-maduabuchi.github.io/portfolio"
                     target='_blank'>
                     <button className='todo-btn'>About the developer</button>
                 </a>
